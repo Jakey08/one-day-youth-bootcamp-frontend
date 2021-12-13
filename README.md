@@ -1,6 +1,6 @@
 # one-day-youth-bootcamp-frontend
 
-CA 1Day Youth Boot Camp フロントエンド　ハンズオンリポジトリです
+ CA 1Day Youth Boot Camp フロントエンド　ハンズオンリポジトリです
 
 ## ディレクトリ構成
 
